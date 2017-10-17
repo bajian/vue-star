@@ -13,6 +13,9 @@ npm run dev
 
 ```
 
+##demo
+
+[live-demo](https://bajian.github.io/vue-star/dist/)
 
 Base on [VueStar](https://github.com/OYsun/VueStar) .
 >感谢原作者！无意冒犯。因为我的改动太大，所以没有fork来pr，也没有发布到npm。就自用并分享出来。
@@ -47,10 +50,10 @@ components: {
 
 ### slot
 | Name                 | Description                                                        |
-|----------------------|-----------|--------------|------------------------------------------------------------------|
+|----------------------|--------------------------------------------------------------------|
 | icon   | the slot of the icon . it is suggetsed to use the font-awesome : https://github.com/FortAwesome/Font-Awesome |
 
-| ==================== | ========= | ============ | =================== |
+| ==================== | ============================ |
 
 ### Events
 | Name                            | Parameters | Description                                                                                                                                                  |
