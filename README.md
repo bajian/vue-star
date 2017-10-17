@@ -13,7 +13,7 @@ npm run dev
 
 ```
 
-##demo
+## demo
 
 [live-demo](https://bajian.github.io/vue-star/dist/)
 
