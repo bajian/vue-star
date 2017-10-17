@@ -16,7 +16,7 @@ npm run dev
 
 Base on [VueStar](https://github.com/OYsun/VueStar) .
 >感谢原作者！无意冒犯。因为我的改动太大，所以没有fork来pr，也没有发布到npm。就自用并分享出来。
-<img src="./animate-defaut.gif" width="250">
+<img src="https://bajian.github.io/vue-star/animate01.gif" width="250">
 
 #### How to install from code source 
 ``` js
